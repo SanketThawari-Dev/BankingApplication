@@ -12,7 +12,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
 </head>
 <body>
-<h1 class="display-6 text-center" id="head">Bankar Bank pvt. ltd.</h1>
+<h1 class="display-6 text-center" id="head">ST Bank pvt. ltd.</h1>
 <h1 class="display-6 text-center" id="heading">Home Page</h1>
 
 <div id="btn1">
