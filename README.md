@@ -42,11 +42,11 @@ It provides a user-friendly interface for both bank managers and customers to pe
 
 1. Clone the repository**:
    
-   git clone https://github.com/Your_Github_Account/BankingApplication.git
+       git clone https://github.com/SanketThawari-Dev/BankingApplication.git
 
 2. Navigate to the project directory:
    
-   cd BankingApplication
+       cd BankingApplication
    
 3. Configure the database:
    
@@ -55,11 +55,11 @@ It provides a user-friendly interface for both bank managers and customers to pe
   
 4. Build the project:
 
-   mvn clean install
+       mvn clean install
    
 5. Run the application:
 
-   mvn spring-boot:run
+       mvn spring-boot:run
    
 6. Access the application: Open your browser and navigate to http://localhost:8080.
 
