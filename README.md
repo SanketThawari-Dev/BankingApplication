@@ -9,7 +9,7 @@ It provides a user-friendly interface for both bank managers and customers to pe
 ## Features
 
 - **Bank Manager Operations**:
-  - Add new customers by entering their first name, last name, and postcode.
+  - Add new customers by entering their first name, last name, etc.
   - Open accounts for existing customers with a selection of currency types.
   - View and manage the list of all customers.
 
@@ -59,7 +59,7 @@ It provides a user-friendly interface for both bank managers and customers to pe
    
 5. Run the application:
 
-       mvn spring-boot:run
+       mvn run
    
 6. Access the application: Open your browser and navigate to http://localhost:8080.
 
