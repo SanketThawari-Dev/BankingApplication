@@ -255,7 +255,7 @@ public class AccountDao {
 				String sql2 = "select * from account where acno=?";
 				PreparedStatement ps2 = con.prepareStatement(sql2);
 				ps2.setString(1, acb);
-				ResultSet rs1 = ps1.executeQuery();
+				ResultSet rs1 = ps2.executeQuery();
 
 				while (rs1.next()) {
 					
